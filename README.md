@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Sabah Sultana
 
-   About Me ✨:
+  ## About Me ✨:
 
 - 🔭 I'm a MERN stack Developer
 - 🌱 I’m currently exploring the field the of Data Science 
@@ -9,7 +9,9 @@
 - 🤔 You can find my Development work on https://github.com/SabahSultana29
 - 💬 Ask me about MERN Stack,React,Data Science and Developer frameworks
 - 📫 How to reach me: sabahsultana918@gmail.com
-- 📫 How to reach me:linkedin.com/in/sabah2003
+- 📫 How to reach me: linkedin.com/in/sabah2003
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: You can call me "Geek-ninja"
 
+
+![image](https://github.com/user-attachments/assets/66085229-6ebc-49fb-b598-cefc1f524769)
