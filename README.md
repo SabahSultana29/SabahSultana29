@@ -1,6 +1,9 @@
 <h1 align="center">Hi there👋, I'm Sabah Sultana</h1>
 <h3 align="center">A passionate MERN Stack Developer and Data Science enthusiast</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Image">
+
+
 
 - 🌱 I’m currently persuing **B.E**
 
