@@ -1,7 +1,6 @@
 <h1 align="center">Hi there👋, I'm Sabah Sultana</h1>
 <h3 align="center">A passionate MERN Stack Developer and Data Science enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabahsultana29" alt="sabahsultana29" /></a> </p>
 
 - 🌱 I’m currently persuing **B.E**
 
