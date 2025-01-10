@@ -2,9 +2,11 @@
 <h1 align="center">Hey there! 👋 I'm <span style="color:#ff6347;">Sabah Sultana</span></h1>  
 <h3 align="center">🚀 A Passionate MERN Stack Developer & Aspiring Data Scientist 🌱</h3>  
 
-<a href="https://my_desired_destination.com/about">  
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="A cozy desk with coffee and a laptop, ready for coding!" width="650" height="400" />  
-</a>  
+<div align="center">
+  <a href="https://my_desired_destination.com/about">  
+    <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="A cozy desk with coffee and a laptop, ready for coding!" width="500" height="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />  
+  </a>
+</div>
 
 ---
 
