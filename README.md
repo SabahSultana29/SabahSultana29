@@ -1,30 +1,43 @@
-<h1 align="center">Hi there👋, I'm Sabah Sultana</h1>
-<h3 align="center">A passionate MERN Stack Developer and Data Science enthusiast</h3>
 
-<a href="https://my_desired_destination.com/about">
-    <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Coffee cup and laptop computer." width="650" height="400" />
-</a>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#ff6347;">Sabah Sultana</span></h1>  
+<h3 align="center">🚀 A Passionate MERN Stack Developer & Aspiring Data Scientist 🌱</h3>  
 
+<a href="https://my_desired_destination.com/about">  
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="A cozy desk with coffee and a laptop, ready for coding!" width="650" height="400" />  
+</a>  
 
+---
 
+✨ **About Me:**  
+- 🎓 I’m currently pursuing my **Bachelor’s Degree in Engineering**.  
+- 🌱 Deep-diving into the world of **Data Science** and unlocking insights through data-driven solutions.  
+- 👯 Actively seeking collaborations on **innovative MERN Stack projects** that push the boundaries of creativity and functionality.  
+- 👨‍💻 Explore my project repository here 👉 [**GitHub Portfolio**](https://github.com/SabahSultana29)  
 
-- 🌱 I’m currently persuing **B.E**
+---
 
-- 🌱 I’m currently exploring the field the of **Data Science**
+📬 **Let’s Connect:**  
+- 💼 [**LinkedIn Profile**](https://linkedin.com/in/sabah2003) — Let’s network and grow together!  
+- 📧 **Email Me:** sabahsultana918@gmail.com — Open to opportunities and tech discussions!  
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/SabahSultana29](https://github.com/SabahSultana29)
+💬 **What I Love Talking About:**  
+- 💻 Web Development using **MERN Stack**  
+- 📊 Crafting data stories with **Data Science techniques**  
+- ⚙️ Exploring the latest **developer frameworks and tools**  
+- 🎨 Building **dynamic, user-focused applications**  
 
-- 📫 How to reach me: [linkedin.com/in/sabah2003](linkedin.com/in/sabah2003)
+---
 
-- 💬 Ask me about **MERN Stack,React,Data Science and Developer frameworks**
+🖇️ **Resume & Work Experience:**  
+Check out my resume here 📄 👉 [**Download My Resume**](https://drive.google.com/file/d/1KCdd5TjBQw7IYEHsUhsttqTssMqeIeLD/view?usp=drive_link)  
 
-- 📫 How to reach me: **sabahsultana918@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KCdd5TjBQw7IYEHsUhsttqTssMqeIeLD/view?usp=drive_link](https://drive.google.com/file/d/1KCdd5TjBQw7IYEHsUhsttqTssMqeIeLD/view?usp=drive_link)
+⚡ **Fun Fact:**  
+You can call me **“Geek Ninja”** — I code, I debug, I conquer! 🖤  
 
-- ⚡ Fun fact **You can call me "Geek-ninja"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
