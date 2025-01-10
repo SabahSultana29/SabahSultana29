@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there! 👋 I'm <span style="color:#ff6347;">Sabah Sultana</span></h1>  
-<h3 align="center">🚀 A Passionate MERN Stack Developer & Aspiring Data Scientist 🌱</h3>  
+<h3 align="center">🚀 A Passionate MERN Stack Developer & Data Science Enthusiast 🌱</h3>  
 
 <div align="center">
   <a href="https://my_desired_destination.com/about">  
