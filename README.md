@@ -77,9 +77,9 @@ You can call me **“Geek Ninja”** — I code, I debug, I learn, I conquer! �
 <p align="center">
   <!-- Row 4: DevOps and Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material-UI" width="40" height="40" style="margin:10px;" />
 </p>
-```
+
 
 
 
