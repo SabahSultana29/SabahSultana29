@@ -33,12 +33,12 @@
 ---
 
 🖇️ **Resume & Work Experience:**  
-Check out my resume here 📄 👉 [**Download My Resume**](https://drive.google.com/file/d/1KCdd5TjBQw7IYEHsUhsttqTssMqeIeLD/view?usp=drive_link)  
+Check out my resume here 📄 👉 [**Download My Resume**](https://drive.google.com/file/d/1cWPtW_F939L1CiDPuIAwj-yFGmOHUYtY/view?usp=drive_link)  
 
 ---
 
 ⚡ **Fun Fact:**  
-You can call me **“Geek Ninja”** — I code, I debug, I conquer! 🖤  
+You can call me **“Geek Ninja”** — I code, I debug, I learn, I conquer! 🖤  
 
 
 <h3 align="left">Connect with me:</h3>
